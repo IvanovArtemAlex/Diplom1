@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Диплом</string>
+    <string name="title_tre">Тренировка</string>
+    <string name="title_kon">Конструктор</string>
+    <string name="title_upr">Упражнения</string>
+    <string name="title_cal">Калории</string>
+    <string name="w_upr">Следующее упражнение:</string>
+    <string name="time_otd">Время отдыха:</string>
+    <string name="time_upr">Время упражнения:</string>
+    <string name="count_pov">Количество повторений:</string>
+    <string name="weight">Вес:</string>
+    <string name="start">Старт</string>
+</resources>
